@@ -1,0 +1,21 @@
+Installation procedure
+
+1. The package has 5 files
+	a. server.c
+	b. client.c
+	c. serv-client.h
+	d. uname.dat
+	e. Makefile
+
+2. To make the server execute, $ make server
+   To make the client execute, $ make client
+
+3. Run server and client as ./server and ./client
+
+4. Some of the exisiting users
+
+u: sanket p: agarwal
+u: avishek p: banerjee
+u: arun p:dobriyal
+
+( use them for testing clients )
